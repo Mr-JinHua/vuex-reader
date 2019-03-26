@@ -27,3 +27,9 @@ $ npm run dev # serve examples at localhost:8080
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+## 这个项目，主要解读 vuex 源码。
+
+#### 第一阶段是源码，的注释阶段。
+
+####第二阶段是精华，解读。
